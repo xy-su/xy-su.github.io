@@ -3,35 +3,35 @@ layout: default
 title: Home
 ---
 
-# Suzy Su
-_PhD candidate in Computing and Information Systems._  
-I build **spatial–temporal forecasting** models for traffic networks, with an emphasis on **unobserved regions**, physics‑guided constraints, and **fast hybrid spatial indices**.
+# Xinyu Su
+_PhD candidate of the University of Melbourne, Computing and Information Systems._  
+I am a PhD candidate at the University of Melbourne, supervised by A/Prof Jianzhong Qi, Prof Egemen Tanin, Prof Majid Sarvi and Dr Feng Liu. My research focuses on accurate spatial–temporal data mining with noisy and incomplete data.
 
-- Email: name [at] example.com
-- GitHub: [xy-su](https://github.com/xy-su)
-- Google Scholar: [Profile](https://scholar.google.com/)
-- CV: [/cv](./cv)
+From 2018 - 2020, I received my MSc in Applied Statistics from the School of Data Science, Fudan University, under the supervision of Prof Xiangyang Xue and Bin li, where I worked on computer vision. Between 2014 - 2018, I earned my dual bachelor’s degrees in Software Engineering and Financial Engineering from Sichuan University, as part of the Honours Engineering Program. 
+Before my doctoral study, I worked as a Data Analyst at the Sichuan Branch of China Construction Bank, where I specialised in financial data analytics and risk modelling. 
+
+- Email: suxs3 [at] student.unimelb.edu.au
+- GitHub: https://github.com/suzy0223/
+- Google Scholar: https://scholar.google.com.au/citations?user=s6LkTiwAAAAJ&hl=en
 
 ## News
-- **Nov 2025** — Our paper on physics‑guided cross‑domain forecasting was accepted. 🎉
-- **Oct 2025** — Released FHSIE, a fast hybrid spatial index with external‑memory support.
+- **Nov 2025** — Our paper on Generalising Traffic Forecasting to Regions without Traffic Observations was accepted by AAAI. 🎉
+- **Sep 2025** - Selected as a Rising Scholar under the Overseas High-level University STEM Doctoral Talent Program.
 
 ## Research Interests
 - Spatial–temporal forecasting and transfer to **unobserved regions**
-- Physics‑guided learning (e.g., **LWR** constraints)
-- Embeddings and dynamic grouping for networks
-- Learned spatial indices (FHSIE) and large‑scale data systems
+- Embodied AI
+- AI for Science
 
-## Selected Publications
-See the full list on [/publications](./publications).
+## Publications
 
-- **DualCast** — Disentangling aperiodic events in traffic series. _IJCAI 2025_.  
-- **GenCast‑L/H** — Physics‑guided cross‑domain traffic forecasting for unobserved regions. _AAAI 2026 (under review)_.
-- **FHSIE** — A fast hybrid spatial index with external memory. _Preprint 2025_.
+- **AAAI'26** — Generalising Traffic Forecasting to Regions without Traffic Observations.  
+- **IJCAI'25** — DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model.
+- **EDBT'24** — Spatial-temporal Forecasting for Regions without Observations.
+- **ICDE (workshop)'23** - A Fast Hybrid Spatial Index with External Memory Support.
 
-## Projects
-- **Digital Twin for Traffic Management** — Simulation scenarios for AI‑driven TMCs.  
-- **PIMSG** — Physics‑informed multi‑modal generalisation.
-
-> I prefer British spelling and the term “spatial‑temporal”.
+## Services
+- **Conference PC Member** — AISTATS (2025, 2026), AAAI (2026), NeurIPS (2025)
+- **Journal Reviewer** - ACM TIST, ACM Computing Surveys
+- **Session Chair** — IJCAI-Data Mining (2025)
 

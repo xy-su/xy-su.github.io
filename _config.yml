@@ -1,0 +1,21 @@
+title: Suzy Su
+description: "PhD candidate — spatial-temporal forecasting, traffic AI, and learned spatial indices"
+url: "https://xy-su.github.io"
+baseurl: ""
+theme: jekyll-theme-minimal
+logo: /assets/profile.jpg
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Socials (edit as needed)
+github_username: xy-su
+google_scholar: "https://scholar.google.com/"
+linkedin: "https://www.linkedin.com/"
+twitter: ""
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:title/

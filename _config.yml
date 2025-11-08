@@ -1,5 +1,6 @@
 title: "Xinyu Su (Suzy)"
 description: "PhD candidate at The University of Melbourne"
+url: "https://suzy0223.github.io"
 baseurl: ""
 theme: jekyll-theme-minimal
 logo: /assets/profile.jpg
@@ -8,5 +9,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Socials
-google_scholar: "https://scholar.google.com.au_
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:title/

@@ -10,9 +10,9 @@ I am a PhD candidate at the University of Melbourne, supervised by A/Prof Jianzh
 From 2018 - 2020, I received my MSc in Applied Statistics from the School of Data Science, Fudan University, under the supervision of Prof Xiangyang Xue and Bin li, where I worked on computer vision. Between 2014 - 2018, I earned my dual bachelor’s degrees in Software Engineering and Financial Engineering from Sichuan University, as part of the Honours Engineering Program. 
 Before my doctoral study, I worked as a Data Analyst at the Sichuan Branch of China Construction Bank, where I specialised in financial data analytics and risk modelling. 
 
-- Email: suxs3 [at] student.unimelb.edu.au
-- GitHub: https://github.com/suzy0223/
-- Google Scholar: https://scholar.google.com.au/citations?user=s6LkTiwAAAAJ&hl=en
+- Email: suxs3 [at] student.unimelb.edu.au  
+- GitHub: [suzy0223](https://github.com/suzy0223)  
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=s6LkTiwAAAAJ&hl=zh-CN&oi=ao)
 
 ## News
 - **Nov 2025** — Our paper on Generalising Traffic Forecasting to Regions without Traffic Observations was accepted by AAAI. 🎉

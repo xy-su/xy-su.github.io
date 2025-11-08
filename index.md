@@ -80,10 +80,10 @@ Before my doctoral study, I worked as a **Data Analyst** at the **Sichuan Branch
 ---
 
 ## 📚 Publications
-- **AAAI'26** — [*Generalising Traffic Forecasting to Regions without Traffic Observations*](assets/papers/AAAI26_GenCast.pdf)  
-- **IJCAI'25** — [*DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model*](assets/papers/IJCAI25_DualCast.pdf)  
-- **EDBT'24** — [*Spatial-temporal Forecasting for Regions without Observations*](assets/papers/EDBT24_STSM.pdf)  
-- **ICDE (Workshop)'23** — [*A Fast Hybrid Spatial Index with External Memory Support*](assets/papers/ICDE23_FHSIE.pdf)  
+- **AAAI'26** — [*Generalising Traffic Forecasting to Regions without Traffic Observations*](assets/papers/GenCast.pdf)  
+- **IJCAI'25** — [*DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model*](assets/papers/DualCast.pdf)  
+- **EDBT'24** — [*Spatial-temporal Forecasting for Regions without Observations*](assets/papers/STSM.pdf)  
+- **ICDE (Workshop)'23** — [*A Fast Hybrid Spatial Index with External Memory Support*](assets/papers/FHSIE.pdf)  
 
 ---
 

@@ -1,0 +1,6 @@
+/* Simple tweaks for readability */
+body { max-width: 880px; margin: 0 auto; padding: 2rem 1rem; line-height: 1.7; }
+h1, h2, h3 { letter-spacing: 0.2px; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+blockquote { border-left: 4px solid #eee; padding-left: 1rem; color: #666; }

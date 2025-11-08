@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-{% include sidebar.html %}
-
 
 <style>
 /* ======== Global Styling ======== */

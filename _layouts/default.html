@@ -7,55 +7,58 @@
   <style>
     body {
       font-family: "Helvetica Neue", Arial, sans-serif;
-      color: #2c3e50;
       background-color: #f9fbfd;
-      line-height: 1.7;
+      color: #2c3e50;
       margin: 0;
+      line-height: 1.7;
     }
 
-    .container {
+    .wrapper {
       display: flex;
       flex-direction: row;
-      width: 95%;
+      justify-content: center;
       max-width: 2200px;
-      margin: 2rem auto;
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-      overflow: hidden;
+      margin: 3rem auto;
+      padding: 0 2rem;
     }
 
     aside {
-      flex: 0 0 300px;
+      width: 320px;
       background-color: #f4f7fb;
-      padding: 2rem 1.5rem;
-      border-right: 1px solid #d8e1f0;
-      text-align: center;
+      border-right: 1px solid #d9e3f5;
+      padding: 2.5rem 2rem;
+      box-sizing: border-box;
     }
 
     aside img {
-      width: 180px;
-      border-radius: 12px;
-      border: 2px solid #1a4c9c;
-      box-shadow: 0 0 8px rgba(0,0,0,0.1);
-      margin-bottom: 1rem;
+      width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border: 2px solid #fff;
+      margin-bottom: 1.2rem;
     }
 
-    aside h2 {
+    aside h1 {
+      font-size: 1.7rem;
       color: #1a4c9c;
-      margin-bottom: 0.5rem;
-      font-size: 1.6rem;
+      font-weight: 700;
+      margin-bottom: 0.6rem;
     }
 
     aside p {
       font-size: 0.95rem;
-      margin: 0.5rem 0;
+      color: #333;
+      margin: 0.4rem 0;
     }
 
     aside .contact {
-      text-align: left;
       margin-top: 1.5rem;
-      padding-left: 1rem;
+      border-top: 1px solid #dbe6f5;
+      padding-top: 1.2rem;
+    }
+
+    aside .contact p {
+      margin: 0.4rem 0;
     }
 
     aside .contact b {
@@ -74,11 +77,27 @@
     main {
       flex: 1;
       padding: 3rem 4rem;
+      box-sizing: border-box;
     }
 
-    main h1, main h2 {
+    main h1 {
       color: #1a4c9c;
+      margin-bottom: 0.5rem;
+      font-size: 1.8rem;
       font-weight: 700;
+    }
+
+    main h2 {
+      color: #1a4c9c;
+      font-size: 1.3rem;
+      margin-top: 2.2rem;
+      border-bottom: 1px solid #e5eaf0;
+      padding-bottom: 0.3rem;
+    }
+
+    main p, main li {
+      font-size: 1rem;
+      color: #333;
     }
 
     hr {
@@ -90,10 +109,11 @@
 </head>
 
 <body>
-  <div class="container">
+  <div class="wrapper">
+    <!-- Left column -->
     <aside>
       <img src="{{ site.logo | relative_url }}" alt="Profile photo">
-      <h2>{{ site.title }}</h2>
+      <h1>{{ site.title }}</h1>
       <p>PhD Candidate at<br><strong>The University of Melbourne</strong></p>
 
       <div class="contact">
@@ -103,6 +123,7 @@
       </div>
     </aside>
 
+    <!-- Right column -->
     <main>
       {{ content }}
     </main>

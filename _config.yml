@@ -5,6 +5,12 @@ baseurl: ""
 theme: jekyll-theme-minimal
 logo: /assets/profile.jpg
 
+# --- Add this section ---
+show_downloads: false
+github_username: suzy0223
+email: suxs3@student.unimelb.edu.au
+google_scholar: "https://scholar.google.com/citations?user=s6LkTiwAAAAJ&hl=en"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

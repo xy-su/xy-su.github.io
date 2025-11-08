@@ -1,5 +1,5 @@
-title: Suzy Su
-description: "PhD candidate — spatial-temporal forecasting, traffic AI, and learned spatial indices"
+title: Xinyu Su (Suzy)
+description: "PhD candidate at The University of Melbourne — spatial-temporal forecasting, traffic AI"
 url: "https://xy-su.github.io"
 baseurl: ""
 theme: jekyll-theme-minimal
@@ -9,10 +9,8 @@ plugins:
   - jekyll-sitemap
 
 # Socials (edit as needed)
-github_username: xy-su
-google_scholar: "https://scholar.google.com/"
-linkedin: "https://www.linkedin.com/"
-twitter: ""
+google_scholar: "https://scholar.google.com.au/citations?user=s6LkTiwAAAAJ&hl=en"
+email: "suxs3@student.unimelb.edu.au"
 
 # Build settings
 markdown: kramdown

@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+{% include sidebar.html %}
+
+
 <style>
 /* ======== Global Styling ======== */
 body {
@@ -56,13 +59,6 @@ My research focuses on **accurate spatial–temporal data mining** under **noisy
 From **2018 – 2020**, I completed my **MSc in Applied Statistics** at the **School of Data Science, Fudan University**, under the supervision of **Prof Xiangyang Xue** and **Prof Bin Li**, where I worked on **computer vision**.  
 Between **2014 – 2018**, I earned **dual bachelor’s degrees** in **Software Engineering** and **Financial Engineering** from **Sichuan University**, as part of the **Honours Engineering Program**.  
 Before my doctoral study, I worked as a **Data Analyst** at the **Sichuan Branch of China Construction Bank**, specialising in **financial data analytics and risk modelling**.
-
----
-
-### 📬 Contact
-- **Email:** suxs3 [at] student.unimelb.edu.au  
-- **GitHub:** [suzy0223](https://github.com/suzy0223)  
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=s6LkTiwAAAAJ&hl=zh-CN&oi=ao)
 
 ---
 

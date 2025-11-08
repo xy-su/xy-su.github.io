@@ -1,11 +1,15 @@
-<div class="sidebar-item sidebar-about">
-  <img src="{{ site.logo | relative_url }}" alt="Profile photo"
-       style="border-radius:50%; width:150px; box-shadow:0 0 6px #ccc; margin-bottom:10px;">
-  <h2>{{ site.title }}</h2>
-  <p>{{ site.description }}</p>
-  <p>
-    <b>Email:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
-    <b>GitHub:</b> <a href="https://github.com/suzy0223">suzy0223</a><br>
-    <b>Google Scholar:</b> <a href="{{ site.google_scholar }}">Profile</a>
-  </p>
+<div style="text-align:center; margin-bottom:1.2rem;">
+  <img src="{{ site.logo | relative_url }}" 
+       alt="Profile photo"
+       style="width:200px; height:auto; border-radius:10px; border:2px solid #1a4c9c; box-shadow:0 0 8px rgba(0,0,0,0.1);">
 </div>
+
+<h2 style="text-align:center; color:#1a4c9c; margin-bottom:0.5rem;">{{ site.title }}</h2>
+<p style="text-align:center; margin-top:0; margin-bottom:1rem;">PhD candidate at <strong>The University of Melbourne</strong></p>
+
+<p style="font-size:0.95rem; line-height:1.5;">
+  <b>Email:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+  <b>GitHub:</b> <a href="https://github.com/suzy0223">suzy0223</a><br>
+  <b>Google Scholar:</b> <a href="{{ site.google_scholar }}">Profile</a>
+</p>
+

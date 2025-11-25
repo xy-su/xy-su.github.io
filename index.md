@@ -55,13 +55,15 @@ A/Prof Jianzhong Qi, Prof Egemen Tanin, Prof Majid Sarvi, and Dr Feng Liu.
 My research focuses on accurate spatial–temporal data mining under noisy and incomplete data conditions.
 
 From 2018 – 2020, I completed my MSc in Applied Statistics at the **School of Data Science, Fudan University**, under the supervision of Prof Xiangyang Xue and Prof Bin Li, where I worked on computer vision.  
-Between 2014 – 2018, I earned dual bachelor’s degrees in Software Engineering and Financial Engineering from **Sichuan University**, as part of the Honours Engineering Program.  
+Between 2014 – 2018, I earned dual bachelor’s degrees in Software Engineering and Financial Engineering from **Sichuan University**, as part of the Honours Engineering Program. 
+
 Before my doctoral study, I worked as a Data Analyst at the **Sichuan Branch of China Construction Bank**, specialising in financial data analytics and risk modelling.
 
 ---
 
 ## 📰 News
-- **Nov 2025** — Our paper *Generalising Traffic Forecasting to Regions without Traffic Observations* was accepted by **AAAI 2026** 🎉  
+- **Nov 2025** - Received Travel Scholarship by AAAI🎉  
+- **Nov 2025** — Our paper *Generalising Traffic Forecasting to Regions without Traffic Observations* was accepted by **AAAI 2026**  
 - **Sep 2025** — Selected as a **Rising Scholar** under the *Overseas High-level University STEM Doctoral Talent Program*  
 
 ---

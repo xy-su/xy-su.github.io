@@ -46,12 +46,10 @@ blockquote {
 }
 </style>
 
-# <span class="highlight">Xinyu Su</span>
+# <span class="highlight">Xinyu Su, Ph.D.</span>
 
-_PhD Candidate, Computing and Information Systems, University of Melbourne_
-
-I am a PhD candidate at the **University of Melbourne**, supervised by  
-A/Prof Jianzhong Qi, Prof Egemen Tanin, Prof Majid Sarvi, and Dr Feng Liu.  
+I received my PhD degree in computer science at the **University of Melbourne** in 2025, supervised by  
+A/Prof Jianzhong Qi, Prof Egemen Tanin, Prof Majid Sarvi, and A/Prof Feng Liu.  
 My research focuses on accurate spatial–temporal data mining under noisy and incomplete data conditions.
 
 From 2018 – 2020, I completed my MSc in Applied Statistics at the **School of Data Science, Fudan University**, under the supervision of Prof Xiangyang Xue and Prof Bin Li, where I worked on computer vision.  

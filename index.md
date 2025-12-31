@@ -58,7 +58,7 @@ Before my doctoral study, I worked as a Data Analyst at the **Sichuan Branch of 
 ---
 
 ## 📰 News
-- **Dec 2025** - Received my Ph.D. degree! Dooby is free🥳
+- **Dec 2025** - Received my Ph.D. degree! Dobby is free🥳
 - **Nov 2025** - Received Travel Scholarship by AAAI🎉  
 - **Nov 2025** — Our paper *Generalising Traffic Forecasting to Regions without Traffic Observations* was accepted by **AAAI 2026**  
 - **Sep 2025** — Selected as a **Rising Scholar** under the *Overseas High-level University STEM Doctoral Talent Program*  

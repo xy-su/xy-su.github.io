@@ -48,8 +48,7 @@ blockquote {
 
 # <span class="highlight">Xinyu Su, Ph.D.</span>
 
-I received my PhD degree in computer science at the **University of Melbourne** in 2025, supervised by  
-A/Prof Jianzhong Qi, Prof Egemen Tanin, Prof Majid Sarvi, and A/Prof Feng Liu.  
+I received my PhD degree in computer science at the **University of Melbourne** in 2025, supervised by A/Prof Jianzhong Qi, Prof Egemen Tanin, Prof Majid Sarvi, and A/Prof Feng Liu.  
 My research focuses on accurate spatial–temporal data mining under noisy and incomplete data conditions.
 
 From 2018 – 2020, I completed my MSc in Applied Statistics at the **School of Data Science, Fudan University**, under the supervision of Prof Xiangyang Xue and Prof Bin Li, where I worked on computer vision.  

@@ -7,7 +7,7 @@ logo: /assets/profile.jpg
 show_downloads: false
 github_username: suzy0223
 email: suxs3@student.unimelb.edu.au
-google_scholar: "https://scholar.google.com/citations?user=s6LkTiwAAAAJ&hl=en"
+google_scholar: "https://scholar.google.com.au/citations?user=2am36BUAAAAJ&hl=zh-CN"
 
 plugins:
   - jekyll-seo-tag

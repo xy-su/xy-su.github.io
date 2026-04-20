@@ -94,7 +94,7 @@ During my PhD, I worked as a Research Associate at The Hong Kong University of S
 ---
 
 ## 🧭 Services
-- **Conference PC Member** — AISTATS (2025 & 2026), AAAI (2026), NeurIPS (2025)  
+- **Conference PC Member** — AISTATS (2025 & 2026), AAAI (2026), NeurIPS (2025), PAKDD (2026)
 - **Journal Reviewer** — *ACM TIST*, *ACM Computing Surveys*  
 - **Session Chair** — *IJCAI 2025, Data Mining Track*
 

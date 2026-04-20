@@ -78,7 +78,7 @@ During my PhD, I worked as a Research Associate at The Hong Kong University of S
 
 ## 📚  Publications
 
-- **AAAI’26** — *[Generalising Traffic Forecasting to Regions without Traffic Observations](assets/papers/AAAI26_GenCast.pdf)*  
+- **AAAI’26** — *[Generalising Traffic Forecasting to Regions without Traffic Observations](assets/papers/GenCast.pdf)*  
   <small><u><b>Xinyu Su</b></u>, Majid Sarvi, Feng Liu, Egemen Tanin, Jianzhong Qi*</small>
 
 - **IJCAI’25** — *[DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model](assets/papers/DualCast.pdf)*  

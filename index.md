@@ -78,16 +78,16 @@ During my PhD, I worked as a Research Associate at The Hong Kong University of S
 
 ## 📚  Publications
 
-- **AAAI’26** — *[Generalising Traffic Forecasting to Regions without Traffic Observations](/papers/AAAI26_GenCast.pdf)*  
+- **AAAI’26** — *[Generalising Traffic Forecasting to Regions without Traffic Observations](assets/papers/AAAI26_GenCast.pdf)*  
   <small><u><b>Xinyu Su</b></u>, Majid Sarvi, Feng Liu, Egemen Tanin, Jianzhong Qi*</small>
 
-- **IJCAI’25** — *[DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model](/papers/DualCast.pdf)*  
+- **IJCAI’25** — *[DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model](assets/papers/DualCast.pdf)*  
   <small><u><b>Xinyu Su</b></u>, Feng Liu, Yanchuan Chang, Egemen Tanin, Majid Sarvi, Jianzhong Qi*</small>
 
-- **EDBT’24** — *[Spatial-temporal Forecasting for Regions without Observations](/papers/STSM.pdf)*  
+- **EDBT’24** — *[Spatial-temporal Forecasting for Regions without Observations](assets/papers/STSM.pdf)*  
   <small><u><b>Xinyu Su</b></u>, Jianzhong Qi, Egemen Tanin, Yanchuan Chang, Majid Sarvi</small>
 
-- **ICDE (Workshop)’23** — *[A Fast Hybrid Spatial Index with External Memory Support](/papers/FHSIE.pdf)*  
+- **ICDE (Workshop)’23** — *[A Fast Hybrid Spatial Index with External Memory Support](assets/papers/FHSIE.pdf)*  
   <small><u><b>Xinyu Su</b></u>, Jianzhong Qi, Egemen Tanin</small>
 
 

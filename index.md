@@ -66,6 +66,7 @@ During my PhD, I worked as a Research Associate at The Hong Kong University of S
 ---
 
 ## 📰 News
+- **July, 2026** - We introduce MKB (Monkey King Bang), a unified scientific multimodal foundation model for both understanding and generation, covering six domains: DNA, RNA, proteins, small molecules, earth science, and medical images. The model is open-sourced; more details at [GitHub link](https://github.com/Shanghai-Academy-of-AI-For-Science/MKB)
 - **Dec 2025** - Received my Ph.D. degree! Dobby is free🥳
 - **Nov 2025** - Received Travel Scholarship by AAAI🎉  
 - **Nov 2025** — Our paper *Generalising Traffic Forecasting to Regions without Traffic Observations* was accepted by **AAAI 2026**  
